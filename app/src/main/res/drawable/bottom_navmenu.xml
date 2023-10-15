@@ -3,7 +3,7 @@
     <item android:title="Map"
         android:icon="@drawable/mapicon_02"
         android:id="@+id/Map"/>
-    <item android:title="Momento"
+    <item android:title="Memory Create"
         android:icon="@drawable/memoryadd_02"
         android:id="@+id/memorycreate"/>
     <item android:title="Add Friend"
