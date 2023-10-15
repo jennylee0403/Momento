@@ -1,0 +1,1668 @@
+{
+  "name": "frame_1",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "G0GPrljlaENlwHqJpw8dVS",
+    "node": "42:1185",
+    "version": "4340390176",
+    "component-id": "5b81c558172aa5354ccf3d064f3197bb9445c20d"
+  },
+  "default": "Frame 1",
+  "documentation": "map",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 3"
+      },
+      {
+        "type": "group",
+        "id": "Mask group"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 10"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 12"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 13"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 14"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 15"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "group",
+        "id": "Clip path group"
+      },
+      {
+        "type": "vector",
+        "id": "Vector6"
+      },
+      {
+        "type": "vector",
+        "id": "Vector7"
+      },
+      {
+        "type": "vector",
+        "id": "Vector8"
+      },
+      {
+        "type": "vector",
+        "id": "Vector9"
+      },
+      {
+        "type": "vector",
+        "id": "Vector10"
+      },
+      {
+        "type": "vector",
+        "id": "Vector11"
+      },
+      {
+        "type": "vector",
+        "id": "Vector12"
+      },
+      {
+        "type": "vector",
+        "id": "Vector13"
+      },
+      {
+        "type": "vector",
+        "id": "Vector14"
+      },
+      {
+        "type": "group",
+        "id": "Clip path group1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector15"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 5"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 6"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 7"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 8"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 9"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 16"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 17"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 18"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 19"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 20"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 21"
+      },
+      {
+        "type": "vector",
+        "id": "Vector 11"
+      },
+      {
+        "type": "text",
+        "id": "Map Momento Friends Settings"
+      },
+      {
+        "type": "image",
+        "id": "image 1"
+      },
+      {
+        "type": "image",
+        "id": "image 4"
+      },
+      {
+        "type": "image",
+        "id": "image 2"
+      },
+      {
+        "type": "image",
+        "id": "image 3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 5"
+      },
+      {
+        "type": "image",
+        "id": "image 5"
+      },
+      {
+        "type": "group",
+        "id": "clippath"
+      },
+      {
+        "type": "group",
+        "id": "Group"
+      },
+      {
+        "type": "vector",
+        "id": "Vector16"
+      },
+      {
+        "type": "vector",
+        "id": "Vector17"
+      },
+      {
+        "type": "group",
+        "id": "clippath1"
+      },
+      {
+        "type": "group",
+        "id": "Group1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector18"
+      },
+      {
+        "type": "vector",
+        "id": "Vector19"
+      }
+    ],
+    "modes": {
+      "Frame 1": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 3",
+              "Mask group",
+              "Rectangle 4",
+              "Vector",
+              "Vector1",
+              "Vector2",
+              "Vector3",
+              "Vector4",
+              "Vector 10",
+              "Vector 12",
+              "Vector 13",
+              "Vector 14",
+              "Vector 15",
+              "Vector5",
+              "Clip path group",
+              "Vector6",
+              "Vector7",
+              "Vector8",
+              "Vector9",
+              "Vector10",
+              "Vector11",
+              "Vector12",
+              "Vector13",
+              "Vector14",
+              "Clip path group1",
+              "Vector15",
+              "Vector 1",
+              "Vector 2",
+              "Vector 3",
+              "Vector 4",
+              "Vector 5",
+              "Vector 6",
+              "Vector 7",
+              "Vector 8",
+              "Vector 9",
+              "Vector 16",
+              "Vector 17",
+              "Vector 18",
+              "Vector 19",
+              "Vector 20",
+              "Vector 21",
+              "Vector 11",
+              "Map Momento Friends Settings",
+              "image 1",
+              "image 4",
+              "image 2",
+              "image 3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 3",
+            "border-radius": "19.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "364.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "653.0"
+              }
+            },
+            "vector-content": "rectangle_3.svg"
+          },
+          {
+            "id": "Mask group",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.12109375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "18.34710693359375"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "337.39910888671875"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "554.0826416015625"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 5",
+              "image 5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 4",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "565.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "364.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "88.0"
+              }
+            },
+            "vector-content": "rectangle_4.svg"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "111.0",
+              "top": "580.0",
+              "right": "215.0",
+              "bottom": "31.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "115.0",
+              "top": "584.0",
+              "right": "219.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "136.0",
+              "top": "573.0",
+              "right": "205.0",
+              "bottom": "62.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": "147.0",
+              "top": "576.0",
+              "right": "217.0",
+              "bottom": "67.0"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-0.5"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Vector4",
+            "margin": {
+              "left": "141.0",
+              "top": "581.0",
+              "right": "212.0",
+              "bottom": "72.0"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-0.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "Vector 10",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "64.937255859375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "583.1246643066406"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "3.875"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0625"
+              }
+            },
+            "vector-content": "vector_10.svg"
+          },
+          {
+            "id": "Vector 12",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "43.93719482421875"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "601.2496948242188"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "0.9375"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_12.svg"
+          },
+          {
+            "id": "Vector 13",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "55.125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "607.9996643066406"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "2.5"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "2.0625"
+              }
+            },
+            "vector-content": "vector_13.svg"
+          },
+          {
+            "id": "Vector 14",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "54.749664306640625"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "607.5461120605469"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "3.796051025390625"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.078948974609375"
+              }
+            },
+            "vector-content": "vector_14.svg"
+          },
+          {
+            "id": "Vector 15",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "55.249603271484375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "599.2496643066406"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.75"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.84375"
+              }
+            },
+            "vector-content": "vector_15.svg"
+          },
+          {
+            "id": "Vector5",
+            "margin": {
+              "left": "36.0",
+              "top": "607.0",
+              "right": "290.0",
+              "bottom": "29.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector5.svg"
+          },
+          {
+            "id": "Clip path group",
+            "margin": {
+              "left": "38.346343994140625",
+              "top": "577.9338989257812",
+              "right": "291.4805603027344",
+              "bottom": "36.81683349609375"
+            },
+            "is-structured": "false",
+            "children": [
+              "clippath",
+              "Group"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector6",
+            "margin": {
+              "left": "39.0",
+              "top": "578.0",
+              "right": "293.0",
+              "bottom": "38.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector6.svg"
+          },
+          {
+            "id": "Vector7",
+            "margin": {
+              "left": "189.0",
+              "top": "580.0",
+              "right": "149.0",
+              "bottom": "31.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector7.svg"
+          },
+          {
+            "id": "Vector8",
+            "margin": {
+              "left": "218.0",
+              "top": "580.0",
+              "right": "120.0",
+              "bottom": "31.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector8.svg"
+          },
+          {
+            "id": "Vector9",
+            "margin": {
+              "left": "200.0",
+              "top": "591.0",
+              "right": "153.0",
+              "bottom": "58.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector9.svg"
+          },
+          {
+            "id": "Vector10",
+            "margin": {
+              "left": "222.0",
+              "top": "591.0",
+              "right": "131.0",
+              "bottom": "58.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector10.svg"
+          },
+          {
+            "id": "Vector11",
+            "margin": {
+              "left": "202.0",
+              "top": "585.0",
+              "right": "160.0",
+              "bottom": "64.0"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-0.125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-0.125"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector11.svg"
+          },
+          {
+            "id": "Vector12",
+            "margin": {
+              "left": "229.0",
+              "top": "585.0",
+              "right": "133.0",
+              "bottom": "64.0"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-0.125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-0.125"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector12.svg"
+          },
+          {
+            "id": "Vector13",
+            "margin": {
+              "left": "208.0",
+              "top": "585.0",
+              "right": "154.0",
+              "bottom": "64.0"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-0.125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-0.125"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector13.svg"
+          },
+          {
+            "id": "Vector14",
+            "margin": {
+              "left": "223.0",
+              "top": "585.0",
+              "right": "139.0",
+              "bottom": "64.0"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-0.125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-0.125"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector14.svg"
+          },
+          {
+            "id": "Clip path group1",
+            "margin": {
+              "left": "272.25",
+              "top": "577.591796875",
+              "right": "36.27970886230469",
+              "bottom": "31.34210205078125"
+            },
+            "is-structured": "false",
+            "children": [
+              "clippath1",
+              "Group1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector15",
+            "margin": {
+              "left": "273.97412109375",
+              "top": "577.591796875",
+              "right": "38.30174255371094",
+              "bottom": "31.979644775390625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector15.svg"
+          },
+          {
+            "id": "Vector 1",
+            "margin": {
+              "left": "281.625",
+              "top": "587.0460205078125",
+              "right": "80.30064392089844",
+              "bottom": "65.59307861328125"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.5003662109375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.50054931640625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_1.svg"
+          },
+          {
+            "id": "Vector 2",
+            "margin": {
+              "left": "284.4805908203125",
+              "top": "590.290771484375",
+              "right": "78.93081665039062",
+              "bottom": "62.103363037109375"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.5001983642578125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.50018310546875"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_2.svg"
+          },
+          {
+            "id": "Vector 3",
+            "margin": {
+              "left": "276.11492919921875",
+              "top": "599.2718505859375",
+              "right": "85.33834838867188",
+              "bottom": "51.70660400390625"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.4998321533203125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_3.svg"
+          },
+          {
+            "id": "Vector 4",
+            "margin": {
+              "left": "276.31787109375",
+              "top": "600.857177734375",
+              "right": "85.82328796386719",
+              "bottom": "51.70660400390625"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.5"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.5003662109375"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_4.svg"
+          },
+          {
+            "id": "Vector 5",
+            "margin": {
+              "left": "281.3555908203125",
+              "top": "608.033447265625",
+              "right": "77.20260620117188",
+              "bottom": "41.6734619140625"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.500274658203125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.50006103515625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_5.svg"
+          },
+          {
+            "id": "Vector 6",
+            "margin": {
+              "left": "303.2305908203125",
+              "top": "612.7078857421875",
+              "right": "59.90733337402344",
+              "bottom": "38.813812255859375"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.5004119873046875"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.500091552734375"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_6.svg"
+          },
+          {
+            "id": "Vector 7",
+            "margin": {
+              "left": "318.8825378417969",
+              "top": "611.0599365234375",
+              "right": "44.52479553222656",
+              "bottom": "41.431121826171875"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.50006103515625"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.50006103515625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_7.svg"
+          },
+          {
+            "id": "Vector 8",
+            "margin": {
+              "left": "324.1357727050781",
+              "top": "597.6096801757812",
+              "right": "39.54095458984375",
+              "bottom": "52.336761474609375"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.5000152587890625"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_8.svg"
+          },
+          {
+            "id": "Vector 9",
+            "margin": {
+              "left": "315.38037109375",
+              "top": "587.8431396484375",
+              "right": "45.817901611328125",
+              "bottom": "65.043212890625"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.5"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_9.svg"
+          },
+          {
+            "id": "Vector 16",
+            "margin": {
+              "left": "274.6875",
+              "top": "598.4375",
+              "right": "87.5625",
+              "bottom": "50.75"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.5"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.500030517578125"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_16.svg"
+          },
+          {
+            "id": "Vector 17",
+            "margin": {
+              "left": "280.1875",
+              "top": "611.0",
+              "right": "82.4375",
+              "bottom": "41.25"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.500335693359375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_17.svg"
+          },
+          {
+            "id": "Vector 18",
+            "margin": {
+              "left": "322.3125",
+              "top": "601.75",
+              "right": "38.8125",
+              "bottom": "50.75"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.5001373291015625"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.5001220703125"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_18.svg"
+          },
+          {
+            "id": "Vector 19",
+            "margin": {
+              "left": "317.5",
+              "top": "587.6875",
+              "right": "44.25",
+              "bottom": "65.3125"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.5"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_19.svg"
+          },
+          {
+            "id": "Vector 20",
+            "margin": {
+              "left": "324.25",
+              "top": "596.8125",
+              "right": "38.4375",
+              "bottom": "55.0"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.500396728515625"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.500396728515625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_20.svg"
+          },
+          {
+            "id": "Vector 21",
+            "margin": {
+              "left": "279.6875",
+              "top": "587.5",
+              "right": "82.8125",
+              "bottom": "64.625"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-1.500091552734375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-1.500091552734375"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector_21.svg"
+          },
+          {
+            "id": "Vector 11",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "38.745361328125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "591.6875"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "0.630096435546875"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.75"
+              }
+            },
+            "vector-content": "vector_11.svg"
+          },
+          {
+            "id": "Map Momento Friends Settings",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "44.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "627.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "319.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Map           Momento           Friends            Settings",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.2000000817435128",
+            "typeface": "Itim"
+          },
+          {
+            "id": "image 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "272.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "142.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "61.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              }
+            },
+            "image-content": "image_1.png",
+            "scale": "fill"
+          },
+          {
+            "id": "image 4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "25.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "104.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "61.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              }
+            },
+            "image-content": "image_1.png",
+            "scale": "fill"
+          },
+          {
+            "id": "image 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "118.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "303.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "61.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              }
+            },
+            "image-content": "image_1.png",
+            "scale": "fill"
+          },
+          {
+            "id": "image 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "187.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "303.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "61.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              }
+            },
+            "image-content": "image_1.png",
+            "scale": "fill"
+          },
+          {
+            "id": "Rectangle 5",
+            "border-radius": "19.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "337.39910888671875"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "554.0826416015625"
+              }
+            }
+          },
+          {
+            "id": "image 5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "669.5806884765625"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "594.5493774414062"
+              }
+            },
+            "stroke-alignment": "outside",
+            "image-content": "image_2.png",
+            "scale": "cover"
+          },
+          {
+            "id": "clippath",
+            "is-structured": "false",
+            "children": [
+              "Vector16"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group",
+            "is-structured": "false",
+            "children": [
+              "Vector17"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector16",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector16.svg"
+          },
+          {
+            "id": "Vector17",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "12.3037109375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "12.659393310546875"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector17.svg"
+          },
+          {
+            "id": "clippath1",
+            "is-structured": "false",
+            "children": [
+              "Vector18"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group1",
+            "is-structured": "false",
+            "children": [
+              "Vector19"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector18",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector18.svg"
+          },
+          {
+            "id": "Vector19",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "11.004348754882812"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.393463134765625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector19.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Frame 1",
+      "size": {
+        "width": 364.0,
+        "height": 653.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
